@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm DeKrypt!</h1>
+<h1 align="center">Hey! 👋, I'm DeKrypt!</h1>
 <h3 align="center">I program dumb things for the heck of it! I just love living my life really...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Profile%20views&color=0e75b6&style=flat" alt="dekrypted" /> </p>
 
-- 🔭 I’m currently working on **dumb stuff.**
+- 🔭 I’m currently working on: **dumb stuff.**
 
-- 🌱 I’m currently learning **JavaScript, Python, and C++ (I already know JS and Python but you never stop learning!)**
+- 🌱 I’m currently learning: **JavaScript, Python, and C++ (I already know JS and Python but you never stop learning!)**
 
-- 💬 Ask me about **Advice on getting girls (If you don’t want to get girls)**
+- 💬 Ask me about: **Advice on getting girls (If you don’t want to get girls)**
 
 - ⚡ Fun fact: **The moon is solar powered!**
 
