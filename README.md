@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋, I'm DeKrypt!</h1>
-<h3 align="center">I program dumb things for the heck of it! I just love living my life really...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Profile%20views&color=blueviolet&style=flat" alt="dekrypted" /> </p>
+<h3 align="center">I program dumb things for the heck of it! I just love living my life really...</h3>
+
 
 - 🔭 I’m currently working on: **dumb stuff.**
 
