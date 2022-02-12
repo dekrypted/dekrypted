@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Advice on getting girls (If you don’t want to get girls)**
 
-- ⚡ Fun fact **The moon is solar powered!**
+- ⚡ Fun fact: **The moon is solar powered!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
