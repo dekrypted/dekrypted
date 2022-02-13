@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Profile%20Views:&color=b700bf&style=flat" alt="dekrypted" /> </p>
 
-- 🔭 I’m currently working on: **dumb stuff.**
+- 🔭 I’m currently working on: **Vegan Builder** (Token Logger builder, private so don't ask)
 
 - 🌱 I’m currently learning: **JavaScript, Python, and C++ (I already know JS and Python but you never stop learning!)**
 
