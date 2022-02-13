@@ -9,6 +9,8 @@
 
 - 💬 Ask me about: **Advice on getting girls (If you don’t want to get girls)**
 
+- 📫 You can contact me at: **DeKrypt#7777** (Discord)
+
 - ⚡ Fun fact: **The moon is solar powered!**
 
 <h3 align="left">Connect with me:</h3>
