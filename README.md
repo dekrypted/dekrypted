@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact: **The moon is solar powered!**
 
+
+- 🌟 If you like what I do, **follow my GitHub and star my Repo's! Thanks :)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/dekrypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dekrypt" height="30" width="40" /></a>
