@@ -13,7 +13,7 @@
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repos!** Thank you!
 
-- ⚡ Fun fact: **The moon is solar powered!**
+- ⚡ Fun fact: **Your past self is both younger and older than you!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
