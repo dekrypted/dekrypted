@@ -12,9 +12,8 @@
 - 📫 You can contact me at: **DeKrypt#7777 (Discord)**
 
 - ⚡ Fun fact: **The moon is solar powered!**
-
-  
-- 🌟 If you like what I do, **follow my GitHub and star my Repo's! Thanks :)**
+<br/>
+- 🌟 If you like what I do, **follow my GitHub and star my Repos!** Thank you!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
