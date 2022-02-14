@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm DeKrypt!</h1>
-<h3 align="center">I'm a 13 year old programmer. I like to code Malware/Simple utility programs.</h3>
+<h4 align="center">I'm your avarage 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! (If you do, drop a follow!)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Profile%20Views:&color=b700bf&style=flat" alt="dekrypted" /> </p>
 
