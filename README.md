@@ -16,7 +16,7 @@
 
 - 📫 You can contact me at: **DeKrypt#7777 (Discord)**
 
-- 🌟 If you like what I do, **follow my GitHub and star my Repos!** Thank you!
+- 🌟 If you like what I do, **follow my GitHub and star my Repos! Thank you!**
 
 - ⚡ Fun fact: **Your past self is both younger and older than you!**
 
