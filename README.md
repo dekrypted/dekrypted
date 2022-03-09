@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dekrypted" alt="Total Stars" ></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/dekrypted" alt="Total Forks"></a> </p>
 
-- ✔️ Latest public project: **[Chromebook-Crasher (JS Code that freezes any chromebook!)](https://github.com/dekrypted/Chromebook-Crasher)**
+- ✔️ Latest public project: **[Simple-IP-Grabber (Name says it all)](https://github.com/dekrypted/simple-ip-grabber)**
 
 - 🔭 I’m currently working on: **Nothing! Contact me on discord for help coding something. (Python only please!)**
 
