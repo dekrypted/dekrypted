@@ -18,7 +18,7 @@
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repos! Thank you!**
 
-- ⚡ Fun fact: **Your past self is both younger and older than you!**
+- ⚡ Fun fact: **"Go to bed, you'll feel better in the morning" is the human version of "Did you turn it off and turn it back on again?"**
 
 
 <h3 align="left">Languages I know/understand:</h3>
