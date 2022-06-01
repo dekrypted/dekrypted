@@ -14,7 +14,7 @@
 
 - 💬 Ask me about: **Advice on getting girls (If you don’t want to get girls)**
 
-- 📫 You can contact me at: **DeKrypt#7777 [(Discord)](https://discord.com/users/456406483115180042)**
+- 📫 You can contact me at: **DeKrypt#3516 [(Discord)](https://discord.com/users/456406483115180042)**
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repos! Thank you!**
 
