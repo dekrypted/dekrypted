@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning: **JavaScript, Python, and C++ (I already know JS and Python but you never stop learning!)**
 
-- 💬 Ask me about: **Advice on getting girls (If you don’t want to get girls)**
+- 💬 Ask me about: **Help with code or decompiling malware.**
 
-- 📫 You can contact me at: **DeKrypt#7777 [(Discord)](https://discord.com/users/456406483115180042)**
+- 📫 You can contact me at: **DeKrypt#0412 [(Discord)](https://discord.com/users/996487055284654120)**
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repos! Thank you!**
 
-- ⚡ Fun fact: **"Go to bed, you'll feel better in the morning" is the human version of "Did you turn it off and turn it back on again?"**
+- ⚡ Fun fact: **Watching a graduation ceremony is like sitting through a movie that's entirely end credits.**
 
 
 <h3 align="left">Languages I know/understand:</h3>
