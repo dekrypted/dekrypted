@@ -35,7 +35,7 @@
 - **LTC:** LdGKN7DQbREf6weBKpAA3iF4Mj8pyeNwxH <br>
  
 All donations appreciated! <br>
-I can also make custom software for you in exchange for Crypto! Conatct me on Discord.
+I can also make custom software for you in exchange for Crypto! Contact me on Discord.
 
 ---
 
