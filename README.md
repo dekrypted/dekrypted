@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm DeKrypt!</h1>
-<h4 align="center">I'm your avarage 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h4 align="center">I'm your average 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
