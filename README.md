@@ -32,16 +32,11 @@
 \- **BTC:** `bc1q5r8d8sahnjyu4gq3hqflnkjzqh68xezphtq0aw` <br>
 \- **LTC:** `LdGKN7DQbREf6weBKpAA3iF4Mj8pyeNwxH` <br>
 \- **BCH:** `qz8rcf5tnvs8w6pfat9s8tqj77kkwqm9tq7dr4eclx` <br>
-\- **BNB:** `bnb1twfdqxjwmlcgeu7ddc049f367aspa30plxndm3`
+\- **BNB:** `bnb1twfdqxjwmlcgeu7ddc049f367aspa30plxndm3` <br>
 
-\- **BSC/ETH Network:** `0x571072B65AA95c9287bb855f14674F103bdb5D96`
-> **BSC Network:** BNB, BUSD, TUSD, USDC <br>
-> **ETH Network:** ETH, BUSD, TUSD, USDC
-<br>
+\- **ETH + BSC Network:** `0x571072B65AA95c9287bb855f14674F103bdb5D96` (BNB, ETH, BUSD, USDC, TUSD) <br>
+\- **SOL Network:** `Bfjm54HZrvMz3o3KgwfN7TVcxq9BkW4kiL3yr3iD1heT` (TUSD, USDC) <br>
 
-\- **SOL Network:** `Bfjm54HZrvMz3o3KgwfN7TVcxq9BkW4kiL3yr3iD1heT`
-> BUSD, TUSD, USDC
- 
 All donations appreciated! <br>
 I can also make custom software for you in exchange for Crypto! Contact me on Discord.
 
