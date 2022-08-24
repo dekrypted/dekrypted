@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm DeKrypt!</h1>
-<h4 align="center">I'm your average 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h3 align="center">I'm your average 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
@@ -8,7 +8,7 @@
 
 ---
 
-<h4 align="center">- About Me - </h3>
+<h4 align="center">- About Me - </h4>
 
 - ✔️ Latest public project: **[Fentanyl (The best token logger on GitHub)](https://github.com/dekrypted/Fentanyl)**
 
@@ -26,7 +26,7 @@
 
 ---
 
-<h4 align="center">- Donations -</h3>
+<h4 align="center">- Donations -</h4>
 
 💰 Support Me! **Send some Crypto my way! :)**
 - **BTC:** bc1q5r8d8sahnjyu4gq3hqflnkjzqh68xezphtq0aw <br>
@@ -39,14 +39,22 @@ I can also make custom software for you in exchange for Crypto! Contact me on Di
 
 ---
 
-<h4 align="center">- Tools/Languages -</h3>
+<h4 align="center">- Tools/Languages -</h4>
 
 <h3 align="center">Languages I know/understand:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ---
 
-<h4 align="center">- Contribution Snake! -</h3>
+<h4 align="center">- My Stats -</h4>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dekrypted&show_icons=true&locale=en&theme=react">
+</p>
+
+---
+
+<h4 align="center">- Contribution Snake! -</h4>
 
 <p align="center">
     <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
