@@ -28,11 +28,19 @@
 
 <h4 align="center">- Donations -</h4>
 
-💰 Support Me! **Send some Crypto my way! :)**
-- **BTC:** bc1q5r8d8sahnjyu4gq3hqflnkjzqh68xezphtq0aw <br>
-- **ETH:** 0x571072B65AA95c9287bb855f14674F103bdb5D96 <br>
-- **BSC:** 0x571072B65AA95c9287bb855f14674F103bdb5D96 <br>
-- **LTC:** LdGKN7DQbREf6weBKpAA3iF4Mj8pyeNwxH <br>
+💰 Support Me! **Send some Crypto my way! :)** <br>
+\- **BTC:** `bc1q5r8d8sahnjyu4gq3hqflnkjzqh68xezphtq0aw` <br>
+\- **LTC:** `LdGKN7DQbREf6weBKpAA3iF4Mj8pyeNwxH` <br>
+\- **BCH:** `qz8rcf5tnvs8w6pfat9s8tqj77kkwqm9tq7dr4eclx` <br>
+\- **BNB:** `bnb1twfdqxjwmlcgeu7ddc049f367aspa30plxndm3`
+
+\- **BSC/ETH Network:** `0x571072B65AA95c9287bb855f14674F103bdb5D96`
+> **BSC Network:** BNB, BUSD, TUSD, USDC <br>
+> **ETH Network:** ETH, BUSD, TUSD, USDC
+<br>
+
+\- **SOL Network:** `Bfjm54HZrvMz3o3KgwfN7TVcxq9BkW4kiL3yr3iD1heT`
+> BUSD, TUSD, USDC
  
 All donations appreciated! <br>
 I can also make custom software for you in exchange for Crypto! Contact me on Discord.
@@ -43,14 +51,6 @@ I can also make custom software for you in exchange for Crypto! Contact me on Di
 
 <h3 align="center">Languages I know/understand:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
----
-
-<h4 align="center">- My Stats -</h4>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dekrypted&show_icons=true&locale=en&theme=react">
-</p>
 
 ---
 
