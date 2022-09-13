@@ -22,6 +22,8 @@
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repositories! Maybe even [donate](#--donations--)? Thank you very much!**
 
+- 🌐 Check out my forum, **[Krypted!](https://krypt.fun)**
+
 - ⚡ Fun fact: **Watching a graduation ceremony is like sitting through a movie that's entirely end credits.**
 
 ---
