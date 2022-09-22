@@ -10,7 +10,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-- ✔️ Latest public project: **[Fentanyl (The best token logger on GitHub)](https://github.com/dekrypted/Fentanyl)**
+- ✔️ Latest public project: **[Email Generator](https://github.com/dekrypted/email-generator)**
 
 - 🔭 I’m currently working on: **Small Projects. Contact me for help with anything!**
 
