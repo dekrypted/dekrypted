@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm DeKrypt!</h1>
-<h3 align="center">I'm your average 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h3 align="center">I'm your average 14 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about: **Python mechanics, malware, and reverse engineering.**
 
-- 📫 You can contact me at: **DeKrypt#0412 [(Discord)](https://discord.com/users/996487055284654120)**
+- 📫 You can contact me at: **DeKrypt#7536 [(Discord)](https://discord.com/users/1017367377735843921)**
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repositories! Maybe even [donate](#--donations--)? Thank you very much!**
 
