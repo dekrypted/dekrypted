@@ -14,11 +14,9 @@
 
 - 🔭 I’m currently working on: **Small Projects. Contact me for help with anything!**
 
-- 🌱 I’m currently learning: **JavaScript and Advanced Python!**
+- 🌱 I’m currently learning: **Web Development (Backend)**
 
-- 💬 Ask me about: **Python mechanics, malware, and reverse engineering.**
-
-- 📫 You can contact me at: **DeKrypt#7536 [(Discord)](https://discord.com/users/1017367377735843921)**
+- 💬 Ask me about: **Windows API, Software Engineering, Reverse Engineering, and Malware Research!**
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repositories! Maybe even [donate](#--donations--)? Thank you very much!**
 
@@ -28,17 +26,11 @@
 
 <h4 align="center">- Donations -</h4>
 
-💰 Support Me! **Send some Crypto my way! :)** <br>
-\- **BTC:** `bc1q5r8d8sahnjyu4gq3hqflnkjzqh68xezphtq0aw` <br>
-\- **LTC:** `LdGKN7DQbREf6weBKpAA3iF4Mj8pyeNwxH` <br>
-\- **BCH:** `qz8rcf5tnvs8w6pfat9s8tqj77kkwqm9tq7dr4eclx` <br>
-\- **BNB:** `bnb1twfdqxjwmlcgeu7ddc049f367aspa30plxndm3` <br>
-
-\- **ETH + BSC Network:** `0x571072B65AA95c9287bb855f14674F103bdb5D96` (BNB, ETH, BUSD, USDC, TUSD) <br>
-\- **SOL Network:** `Bfjm54HZrvMz3o3KgwfN7TVcxq9BkW4kiL3yr3iD1heT` (TUSD, USDC) <br>
+💰 Support Me! **Send some donations my way! :)** <br>
+https://krypt.fun/donations
 
 All donations appreciated! <br>
-I can also make custom software for you in exchange for Crypto! Contact me on Discord.
+I can also make custom software for you in exchange for Money! Contact me on Discord.
 
 ---
 
