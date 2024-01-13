@@ -16,16 +16,6 @@
 
 ---
 
-<h4 align="center">- Donations -</h4>
-
-💰 Support Me! **Send some donations my way! :)** <br>
-https://krypt.fun/donations
-
-All donations appreciated! <br>
-I can also make custom software for you in exchange for Money! Contact me on Discord.
-
----
-
 <h4 align="center">- Tools/Languages -</h4>
 
 <h3 align="center">Languages I know/understand:</h3>
