@@ -10,17 +10,9 @@
 
 <h4 align="center">- About Me - </h4>
 
-- ✔️ Latest public project: **[Email Generator](https://github.com/dekrypted/email-generator)**
+- 💬 Ask me about: **WinAPI, Malware Development, Reverse Engineering, Pentesting.**
 
-- 🔭 I’m currently working on: **Small Projects. Contact me for help with anything!**
-
-- 🌱 I’m currently learning: **Web Development (Backend)**
-
-- 💬 Ask me about: **Windows API, Software Engineering, Reverse Engineering, and Malware Research!**
-
-- 🌟 If you like what I do, **follow my GitHub and star my Repositories! Maybe even [donate](#--donations--)? Thank you very much!**
-
-- ⚡ Fun fact: **Watching a graduation ceremony is like sitting through a movie that's entirely end credits.**
+- 🌟 If you like what I do, **follow my GitHub and star my Repositories! Thank you very much!**
 
 ---
 
