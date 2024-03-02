@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm DeKrypt!</h1>
-<h3 align="center">I'm your average 14 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h3 align="center">I'm a 15 year old Software Engineer and Content Creator.</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
@@ -10,10 +10,8 @@
 
 <h4 align="center">- About Me - </h4>
 
-- 💬 Ask me about: **WinAPI, Malware Development, Reverse Engineering, Pentesting.**
-
-- 🌟 If you like what I do, **follow my GitHub and star my Repositories! Thank you very much!**
-
+- 💬 Ask me about: **System Scripting, Windows API, Reverse Engineering and Tutorial-Style Content Creation.**
+  
 ---
 
 <h4 align="center">- Tools/Languages -</h4>
@@ -23,7 +21,7 @@
 
 ---
 
-<h4 align="center">- Contribution Snake! -</h4>
+<h4 align="center">- Contribution Snake -</h4>
 
 <p align="center">
     <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
